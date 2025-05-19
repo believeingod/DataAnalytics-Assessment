@@ -124,7 +124,7 @@ o	total_transactions / tenure_months: average transactions per month.
 o	Multiply by 12 to annualize.
 o	Multiply by 0.1 (likely a monetary value per transaction or some coefficient for CLV).
 •  Cast the CLV as decimal with 2 decimal places.
-•  Order the results by estimated_clv descending — highest CLV first.
+•  Order the results by estimated_clv descending highest CLV first.
 
 
 
