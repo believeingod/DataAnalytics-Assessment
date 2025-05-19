@@ -2,7 +2,7 @@
 
 Question 1:
 This SQL query retrieves a profile of users who have both savings and investment plans, along with their total deposits, plan counts, and full names, sorted by how much they’ve deposited.
-CTE 1: Savings
+common table expression(CTE) 1: Savings
 Purpose:
 •	Summarizes how much each user has deposited (in kobo, converted to Naira by dividing by 100).
 •	Only includes deposits that are linked to a plan.
